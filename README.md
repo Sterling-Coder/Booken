@@ -40,12 +40,12 @@ Getting started with Booken is as easy as opening a book:
 
 ```
 📊 DATABASE CONFIGURATION
-┌─────────────────────────────────────┐
-│ Host: localhost                      │
-│ Username: root                       │
-│ Password: (Your Secret Spell)        │
+┌────────────────────────────────────────┐
+│ Host: localhost                        │
+│ Username: root                         │
+│ Password: (Your Secret Spell)          │
 │ DB Name: login_with_prepared_statement │
-└─────────────────────────────────────┘
+└────────────────────────────────────────┘
 ```
 
 Adjust the mystic connections in `conn/connection.php`:
@@ -112,10 +112,6 @@ Lost in the labyrinth? Try these solutions:
 1. 🔍 Verify your connection scrolls in `conn/connection.php`
 2. ⚡ Ensure your magical servers (web & MySQL) are awake
 3. 📚 Check that you've properly transcribed the SQL tome
-
-## 📜 License
-
-This magical creation is protected under the terms of the LICENSE scroll.
 
 ---
 
